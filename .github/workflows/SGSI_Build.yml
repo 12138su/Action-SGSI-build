@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://ip2341096666.out.azhimalayanvh.com/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210527000410/acc3dace/update.zip?ali_redirect_domain=firmware.meizu.com'
+        default: 'https://q3jdq2sx.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.8.11/cn_daily/20210811160923/b156f9c1/update.zip?xy_rid=3CHvbNtW4UPEGO'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
@@ -18,7 +18,7 @@ on:
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
-        default: 'Flyme9_18P_SGSI.zip'
+        default: 'Flyme9_17P_210811_SGSI.zip'
 
 
 
